@@ -28,9 +28,9 @@ Working with the Burn framework in Rust provides an efficient and structured app
 
 ## Usage
 
-To run the program:
+### To run the program:
 
-cargo run
+`cargo run`
 
 Ensure dependencies like burn, rand, and textplots are included in Cargo.toml.
 
