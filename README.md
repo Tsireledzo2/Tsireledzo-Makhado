@@ -4,7 +4,7 @@
 
 This project implements a simple linear regression model using the Burn framework in Rust. The goal is to generate synthetic data, train a model, and visualize the results using text-based plotting.
 
-# Approach
+## Approach
 
 1. Data Generation:
    We generate synthetic data points where y = 2x + 1 with some added noise.
